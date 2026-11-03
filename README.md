@@ -1,6 +1,6 @@
 # Hi, I'm Qinzheng Wang 👋
 
-Undergraduate in **Actuarial Science** at the University of International Business and Economics (UIBE), applying to **PhD programs (Fall 2027)** in statistics / biostatistics, with a focus on **climate & natural-disaster insurance**.
+Undergraduate in **Actuarial Science** at the University of International Business and Economics (UIBE), applying to **PhD programs (Fall 2027)** in statistics / biostatistics**.
 
 ## Research interests
 
